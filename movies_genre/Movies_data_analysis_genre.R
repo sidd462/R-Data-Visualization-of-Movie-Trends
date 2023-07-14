@@ -1,6 +1,6 @@
 #https://www.superdatascience.com/pages/rcourse
 #getwd()
-setwd()
+setwd('-')
 #getwd()
 
 df<-read.csv('-',stringsAsFactors = T)
