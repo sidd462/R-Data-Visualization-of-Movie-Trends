@@ -3,7 +3,7 @@
 setwd()
 #getwd()
 
-df<-read.csv('*****',stringsAsFactors = T)
+df<-read.csv('-',stringsAsFactors = T)
 head(df)
 nrow(df)
 colnames(df)
