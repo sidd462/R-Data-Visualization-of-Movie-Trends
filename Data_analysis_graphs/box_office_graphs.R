@@ -1,6 +1,6 @@
 getwd()
-setwd("/Users/siddharth/Desktop/R/datasets")
-mov <- read.csv("Section6-Homework-Data.csv")
+setwd('-')
+mov <- read.csv("-")
 
 #Data Exploration
 head(mov) #top rows
