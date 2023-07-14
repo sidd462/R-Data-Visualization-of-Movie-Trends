@@ -1,9 +1,9 @@
 #https://www.superdatascience.com/pages/rcourse
 #getwd()
-setwd('/Users/siddharth/Desktop/R/datasets')
+setwd()
 #getwd()
 
-df<-read.csv('P2-Movie-Ratings.csv',stringsAsFactors = T)
+df<-read.csv('*****',stringsAsFactors = T)
 head(df)
 nrow(df)
 colnames(df)
